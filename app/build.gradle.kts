@@ -8,7 +8,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.aistudio.solarsystem.kxmpzq"
+        applicationId = "com.rajkumar.helicalsolarsystem"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
