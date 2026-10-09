@@ -1,0 +1,8 @@
+{
+  "name": "Helical Solar System",
+  "description": "Interactive 3D simulation of our Solar System with helical orbits, planets, moons, asteroids, and constellations",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
